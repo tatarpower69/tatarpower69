@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Ilnur Saipiyev Banner" style="border-radius: 8px;" />
+  <img src="baner.jpg" width="100%" alt="Ilnur Saipiyev Banner" style="border-radius: 8px;" />
 </div>
 
 <br />
